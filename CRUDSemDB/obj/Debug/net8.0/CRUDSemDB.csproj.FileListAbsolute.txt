@@ -1,0 +1,15 @@
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\CRUDSemDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\CRUDSemDB.AssemblyInfoInputs.cache
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\CRUDSemDB.AssemblyInfo.cs
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\CRUDSemDB.csproj.CoreCompileInputs.cache
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\CRUDSemDB.sourcelink.json
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\bin\Debug\net8.0\CRUDSemDB.exe
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\bin\Debug\net8.0\CRUDSemDB.deps.json
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\bin\Debug\net8.0\CRUDSemDB.runtimeconfig.json
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\bin\Debug\net8.0\CRUDSemDB.dll
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\bin\Debug\net8.0\CRUDSemDB.pdb
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\CRUDSemDB.dll
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\refint\CRUDSemDB.dll
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\CRUDSemDB.pdb
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\CRUDSemDB.genruntimeconfig.cache
+C:\Users\kaiks\Desktop\C#\CRUDSemDB\CRUDSemDB\obj\Debug\net8.0\ref\CRUDSemDB.dll
