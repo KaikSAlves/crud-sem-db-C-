@@ -6,6 +6,6 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        GeradorDeCpf.gerarCpf();
+        Console.Write(VerificadorDeCpf.verificarCpf("462.180.658-00"));
     }
 }
