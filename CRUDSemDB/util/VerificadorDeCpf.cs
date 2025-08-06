@@ -8,15 +8,29 @@ public class VerificadorDeCpf : CpfUtil
         int primeiroDigitoVerificador = calcularPrimeiroDigitoVerificador(cpfEmVetor);
         int segundoDigitoVerificador = calcularSegundoDigitoVerificador(cpfEmVetor, primeiroDigitoVerificador);
 
-        if (cpf[9] == primeiroDigitoVerificador)
+        if (cpfEmVetor[9] == primeiroDigitoVerificador)
         {
             
-            return cpf[10] == segundoDigitoVerificador;
+            return cpfEmVetor[10] == segundoDigitoVerificador;
         }
 
         return false;
     }
-        
+     
+    public static bool verificarCpf(long cpf)
+    {
+        int[] cpfEmVetor = cpf.ToString().Select(c => int.Parse(c.ToString())).ToArray();
+        int primeiroDigitoVerificador = calcularPrimeiroDigitoVerificador(cpfEmVetor);
+        int segundoDigitoVerificador = calcularSegundoDigitoVerificador(cpfEmVetor, primeiroDigitoVerificador);
+
+        if (cpfEmVetor[9] == primeiroDigitoVerificador)
+        {
+            
+            return cpfEmVetor[10] == segundoDigitoVerificador;
+        }
+
+        return false;
+    }
 
     private static int calcularPrimeiroDigitoVerificador(int[] cpf)
     {
@@ -24,7 +38,7 @@ public class VerificadorDeCpf : CpfUtil
         
         for (int i = 0; i < 9; i++)
         {
-            sum += cpf[i] * i + 1;
+            sum += cpf[i] * (i + 1);
         }
 
         sum %= 11;

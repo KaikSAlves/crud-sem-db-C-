@@ -4,7 +4,7 @@ public abstract class CpfUtil
 {
     public static int[] transformarCpfEmVetor(string cpf)
     {
-        int[] cpfEmVetor = new int[9];
+        int[] cpfEmVetor = new int[11];
         
         cpf = cpf.Replace(".", "").Replace("-", "").Replace(" ", "");
 

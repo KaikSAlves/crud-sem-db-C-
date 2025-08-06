@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDSemDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5714faeb1ca71c09e79b895a9603660145c3905c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14197bc10bed583e71d920ec77d0ef54d433a606")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDSemDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDSemDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
